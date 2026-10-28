@@ -51,6 +51,7 @@
     <Compile Include="Core\StationTaskBase.cs" />
     <Compile Include="Domain\DomainModels.cs" />
     <Compile Include="Domain\S01_InfeedStation.cs" />
+    <Compile Include="Domain\S02_WashTrayStation.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
